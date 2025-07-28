@@ -1,8 +1,8 @@
 <?php
-$servername = "MYSQL5047.site4now.net";
-$username = "a77512_tranvan";
-$password = "shop_nhom3";
-$dbname = "db_a77512_tranvan";
+$servername = "mysql1003.site4now.net";
+$username = "abc4d5_campers";
+$password = "@ThInH0302";
+$dbname = "db_abc4d5_campers";
 $conn = mysqli_connect($servername, $username, $password, $dbname);
 	
 if(!$conn) {
